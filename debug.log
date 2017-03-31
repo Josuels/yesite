@@ -1,6 +1,0 @@
-[0330/154954.357:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Redbob\Reports\Dump: O sistema não pode encontrar o caminho especificado. (0x3)
-[0330/154954.361:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
-[0330/154954.362:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Redbob\Reports\Dump: O sistema não pode encontrar o caminho especificado. (0x3)
-[0330/155823.758:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Redbob\Reports\Dump: O sistema não pode encontrar o caminho especificado. (0x3)
-[0330/155823.761:ERROR:registration_protocol_win.cc(83)] TransactNamedPipe: O pipe foi finalizado. (0x6D)
-[0330/155823.762:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files\Redbob\Reports\Dump: O sistema não pode encontrar o caminho especificado. (0x3)
